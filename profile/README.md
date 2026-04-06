@@ -12,8 +12,8 @@ Berikut adalah anggota formasi Kelompok 6 yang berkolaborasi dalam proyek ini:
 
 | NIM | Nama | Role |
 | :--- | :--- | :--- |
-| `2510511060` | Muhamad Hafizh Hanifuddin | 👑 Project Manager |
-| `2310512060` | Rigi Yoga Sumarta | 👑 Project Manager |
+| `2510511060` | Muhamad Hafizh Hanifuddin | 👑 Product Manager |
+| `2310512060` | Rigi Yoga Sumarta | 👑 Product Manager |
 | `2410512015` | Rafi Fauzi Alfariz | 🎨 UI/UX Designer |
 | `2510512001` | Erlang Yudantara | 💻 Frontend Developer |
 | `2510511044` | Dany Musyaffa | 💻 Frontend Developer |
